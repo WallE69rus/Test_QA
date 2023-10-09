@@ -8,3 +8,6 @@
 Команда 'cat' выводит на экрад содержимое файла
 Синтаксис: cat пробел `имя файла` далее Enter
 Пример: cat QA_Practica
+
+
+https://app.qase.io/public/report/4e829bcdef899efd5b7178b144c4390ca62fa279
